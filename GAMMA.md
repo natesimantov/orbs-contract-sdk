@@ -1,6 +1,7 @@
 # Gamma
 
-> Local Orbs blockchain instance for developers
+> Version v0.5.1 (beta) 
+>betaLocal Orbs blockchain instance for developers
 
 &nbsp;
 ## Overview
@@ -18,7 +19,7 @@ The `gamma-cli` command line tool helps developers interact with the Gamma serve
     brew install orbs-network/devtools/gamma-cli
     ```
 
-    > Verify with `gamma-cli version`
+    > Verify with `gamma-cli version`, you should see the current version. 
 
 2. Make sure [Docker](https://docs.docker.com/docker-for-mac/install/) is installed on your machine.
 
